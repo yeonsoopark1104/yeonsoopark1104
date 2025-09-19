@@ -20,3 +20,7 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 ---
+
+📲 Project 📲
+
+개인 프로젝트 (미완성) - 쇼핑몰 사이트 
